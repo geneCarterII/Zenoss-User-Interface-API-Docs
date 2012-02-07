@@ -28,10 +28,11 @@ Generating Documentation
 
 To generate the documentation first install jsduck and then run the following command:
 
-    $./generate.sh
+    $./generate.sh ~/path-to-output
 
 from the this directory. The script expects $ZENHOME to be set as it symlinks the core Javascript directory.
 
+The output should be a directory you can view from a web browser, such as ~/public_html/docs/
 
 This will generate the documentation for both our Zenoss JavaScript as well as the ExtJS core JavaScript. This is so that you can see all the properties
 of our zenoss components as well as the ones they inherit.
