@@ -16,8 +16,11 @@ To install JSDuck simply run
     $ [sudo] gem install jsduck
 
 
-Here are a couple of links about how to write documentation us JSDuck
+Here are a couple of links about how to write documentation us JSDuck:
+
 [Guide to Write Javascript Doc strings](https://github.com/senchalabs/jsduck/wiki/Guide)
+
+
 [How to write Guides and videos etc](https://github.com/senchalabs/jsduck/wiki/Advanced-Usage)
 
 Generating Documentation
