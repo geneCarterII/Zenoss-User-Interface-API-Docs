@@ -3,7 +3,7 @@ ______________________________________________
 
 With the release of Zenoss Core 4.2 the front end was upgraded to the latest version of the ExtJs library. This means that all the javascript written by zenpack authors will have to be upgraded as well. We have modified the example javascript inside the ZenPack template to reflect the necessary changes to serve as an example for zenpack authors..
 The differences between the two versions of the framework are fairly numerous and fall outside the scope of this document. For a brief overview please visit the following link:
-http://docs.sencha.com/ext-js/4-0/#!/guide/upgrade
+[Sencha ExtJS Upgrade Guide](http://docs.sencha.com/ext-js/4-0/#!/guide/upgrade)
 
 ## I. Custom Component Grid Panels
 ______________
