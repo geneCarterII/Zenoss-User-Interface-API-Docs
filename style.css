@@ -1,0 +1,26 @@
+#north-region {
+    background: -moz-linear-gradient(center top , #333, black) repeat scroll 0 0 transparent;
+}
+
+section {
+    min-height: 300px;
+    padding: 36px 18px;
+    position: relative;
+}
+
+section p.intro {
+    color: #314E64;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+section h2 {
+    color: #314E64;
+    font-family: "klavika-web-1","klavika-web-2",sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 1em;
+    margin-bottom: 8px;
+    margin-top: 60px;
+}
+
