@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Zenoss User Interface Guides",
+        "icon": "guides/component_grid_upgrade/icon.png",
+        "items": [
+            {
+                "name": "component_grid_upgrade",
+                "title": "Updating Component Grids for ExtJs 4",
+                "description": "This guide shows you how to update your custom ComponentGridPanel definitions for ExtJS 4 (Zenoss 4.2)."
+            }
+        ]
+    }
+
+]
