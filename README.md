@@ -18,7 +18,7 @@ To install JSDuck simply run
 
 Here are a couple of links about how to write documentation us JSDuck:
 
-[Guide to Write Javascript Doc strings](https://github.com/senchalabs/jsduck/wiki/Guide)
+[Guide to writing Javascript doc strings](https://github.com/senchalabs/jsduck/wiki/Guide)
 
 
 [How to write Guides and videos etc](https://github.com/senchalabs/jsduck/wiki/Advanced-Usage)
