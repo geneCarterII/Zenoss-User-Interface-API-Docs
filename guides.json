@@ -1,12 +1,22 @@
 [
     {
-        "title": "Zenoss User Interface Guides",
+        "title": "Extending the UI within ZenPacks",
         "icon": "guides/component_grid_upgrade/icon.png",
         "items": [
             {
                 "name": "component_grid_upgrade",
                 "title": "Updating Component Grids for ExtJs 4",
                 "description": "This guide shows you how to update your custom ComponentGridPanel definitions for ExtJS 4 (Zenoss 4.2)."
+            },{
+                "name": "adding_custom_javascript",
+                "title": "Adding Custom JavaScript",
+                "icon": "guides/adding_custom_javascript/icon.png",
+                "description": "Register custom JavaScript from your ZenPack."
+            },{
+                "name": "extending_device_details",
+                "title": "Extending the Device Details Page",
+                "icon": "guides/extending_device_details/icon.png",
+                "description": "Shows you how to register items on the component drop down, the gear menu at the bottom and the left hand side menu"
             }
         ]
     }
