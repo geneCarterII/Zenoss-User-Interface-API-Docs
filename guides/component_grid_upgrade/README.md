@@ -83,11 +83,11 @@ Where as the new form for declaring a class under ExtJS4 is as follows:
     Ext.define('Zenoss.component.ExampleComponentGridPanel',{
         extend: 'Zenoss.component.ComponentGridPanel',
         subComponentGridPanel: false,
+        alias:['widget.ExampleComponentGridPanel'],
 
         constructor: function(config) {
             config = Ext.applyIf(config||{}, {
                 componentType: 'ExampleComponent',
-                alias:['widget.ExampleComponentGridPanel'],
                 sortInfo: {
                     field: 'name',
                     direction: 'ASC'
